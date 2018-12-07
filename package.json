@@ -9,5 +9,5 @@
       , "url": "https://github.com/faeldt/base64id.git"
    }
   , "main": "./lib/base64id.js"
-  , "engines": { "node": ">= 0.4.0" }
+  , "engines": { "node": "^4.5.0 || >= 5.9" }
 }
